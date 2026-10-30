@@ -1,0 +1,5 @@
+"student_id","student_name","total_time_seconds","total_clicks","unique_materials_viewed","submitted_assignments_count","total_score","average_score"
+"8","Student 1",2921,"50","13","3","93","31"
+"9","Student 2",309,"30","10","3","70","23.333333333333332"
+"10","Student 3",243,"10","5","1","20","6.666666666666667"
+"11","Student 4",120,"2","2","0","0","0"
