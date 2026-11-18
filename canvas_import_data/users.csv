@@ -1,0 +1,6 @@
+user_id,login_id,first_name,last_name,email,status
+a1,student.1.narxoz.canvas@gmail.com,Student 1,student.1.narxoz.canvas@gmail.com,active,active
+a2,student.2.narxoz.canvas@gmail.com,Student 2,student.2.narxoz.canvas@gmail.com,active,
+a3,student.3.narxoz.canvas@gmail.com,Student 3,student.3.narxoz.canvas@gmail.com,active,
+a4,student.4.narxoz.canvas@gmail.com,Student 4,student.4.narxoz.canvas@gmail.com,active,
+t2,teacher2@narxoz.canvas.kz,Alexey,Smirnov,teacher2@narxoz.canvas.kz,active
