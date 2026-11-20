@@ -1,0 +1,31 @@
+{
+  "model_version": "1.0.0",
+  "trained_at_utc": "2026-11-20T11:58:11.229941+00:00",
+  "target_column": "total_score",
+  "feature_columns": [
+    "course_files_count",
+    "online_assignments_count",
+    "due_online_assignments_count",
+    "offline_assignments_count",
+    "clipped_time_seconds",
+    "relative_time_ratio",
+    "relative_inactivity_days",
+    "submitted_count",
+    "submission_rate",
+    "late_count",
+    "missing_count",
+    "total_attempts",
+    "student_comments",
+    "avg_hours_before_deadline"
+  ],
+  "risk_thresholds": {
+    "high_risk_below": 50.0,
+    "medium_risk_below": 70.0
+  },
+  "metrics": {
+    "val_mae": 5.52,
+    "val_rmse": 7.16,
+    "val_r2": 0.9603,
+    "best_iteration": 228
+  }
+}
